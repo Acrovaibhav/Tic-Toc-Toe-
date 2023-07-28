@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplication02</string>
+    <string name="header"> Tic Toc Toe</string>
+    <string name="grid">over main grid</string>
+</resources>
